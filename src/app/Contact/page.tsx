@@ -21,12 +21,12 @@ const Contact = () => {
             <div className="space-y-6">
               <div>
                 <h2 className="text-lg font-medium">Address</h2>
-                <p className="text-gray-700">Pakistan Karachi Orangi town<br/> Sec7/b Near Qatar Street  </p>
+                <p className="text-gray-700">Pakistan Karachi Orangi town<br/> Sec 15/c  </p>
               </div>
               <div>
                 <h2 className="text-lg font-medium">Phone</h2>
                 <p className="text-gray-700">
-                  Mobile: (+92) 3102867896<br />
+                  Mobile: (+92) 03113820386<br />
                   Hotline: (+92) 00000000
                 </p>
               </div>
